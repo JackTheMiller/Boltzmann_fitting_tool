@@ -11,3 +11,6 @@ You will need input data of xy format (tab, space or comma separated) and the fo
 
 After changing the location of your input file and the temperature the data was collected at,
 all you need to do is run the Boltzmann_fit_final2.py script.
+## Testing
+You can try out the functionality by using the Species1_25.txt file. Download the repository,
+give the path to this very file in the script and you're ready to go. (T = 25°C in this example)
